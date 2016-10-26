@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="hello">Hello World, Cam Activity!</string>
+    <string name="questionmark">\?!</string>
+    <string name="explenation">Sorry, but i could not find a camera on your device.</string>
+    <string name="nosdcard">There is no SD card</string>
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+    <string name="PicturePace">Look for faces pace</string>
+    <string name="SmilingPercentage">Trigger picture probability of smiling face</string>
+    <string name="NumOfFaces">Trigger picture minimum number of faces</string>
+    <string name="faceBox">Show face box</string>
+    <string name="faceLandmarks">Show face landmarks</string>
+    <string name="WaitTimeBeforRetake">Time to trigger Retake after image capture</string>
+</resources>
